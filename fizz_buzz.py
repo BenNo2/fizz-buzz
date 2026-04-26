@@ -11,7 +11,7 @@ def fizz_buzz(r):
         if (i) % 5 == 0:
             z = "buzz"
             x = ""
-        print(x+y+z)
+        print(x+y+z) # Was geeeht
 
 
 if __name__ == "__main__":
